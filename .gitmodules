@@ -1,0 +1,6 @@
+[submodule "data-structures"]
+	path = data-structures
+	url = https://github.com/yahya94812/data-structures
+[submodule "algorithms"]
+	path = algorithms
+	url = https://github.com/yahya94812/algorithms
